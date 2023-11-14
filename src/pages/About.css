@@ -1,0 +1,9 @@
+.container {
+    margin: 20px auto;
+  text-align: center;
+  width: 60vw;
+  word-wrap: break-word;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+  font-size: 1.1rem;
+}
